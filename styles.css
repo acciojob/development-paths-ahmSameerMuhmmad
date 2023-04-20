@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+ body {
+      margin: 0;
+      padding: 10px;
+    }
+    img{
+      width: 300px;
+    }
+    ul{
+      padding-left: 0;
+    }
+    ul li{
+      list-style-type: none;
+    }
